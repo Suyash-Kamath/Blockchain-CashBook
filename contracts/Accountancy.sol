@@ -13,8 +13,7 @@ contract Accountancy {
         string sender;
     }
     List[] listArray;
-
-    function addList(uint256 item, string memory detail) public {
+   function addList(uint256 item, string memory detail) public {
         listArray.push(List(counter, item, detail));
         counter++;
     }
