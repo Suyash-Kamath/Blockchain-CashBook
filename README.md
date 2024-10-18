@@ -1,12 +1,9 @@
-# Basic Sample Hardhat Project
+# Team members
 
-Data in the table is added or subtracted in the blockchain using a smart contract. 
-This is a Todo DApp for beginners. It is built on Hardhat (Javascript Framework For Blockchain). CRUD operations are performed in this app so it would be easy to understand for anyone how smart contracts work with the frontend. 
-
-[DEMO HERE](https://www.youtube.com/watch?v=OmYIul5Au1U)
-
-
-git clone https://github.com/babarali581/Accountancy.git
+Suyash Kamath 21102B0044
+Atharv Deshmukh 21102B0053
+Vivek Yadav 21102B0042
+Atish Limje 21102B0036
  
  # Install hardhat
  npm install --save-dev hardhat
@@ -47,6 +44,3 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
-
-
-<video src='https://firebasestorage.googleapis.com/v0/b/easymoney-54522.appspot.com/o/real.mp4?alt=media&token=d84b5fbe-05e4-4321-9b9b-5eb6619db9cf' width=180/>
